@@ -1,1 +1,2 @@
-# WCT-First
+# This is my first repo
+some text
