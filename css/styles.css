@@ -1,0 +1,43 @@
+header, 
+footer{
+    background-color: #202020;
+    color:#E7EBE8;
+    text-decoration: none;
+}
+
+header a{
+    color:#E8E8E8; 
+    text-decoration:none;
+}
+
+.cta{
+    background-color:#BB0000;
+    color:#E7EBE8;
+    font-size:large;
+    padding:14px 40px;
+    border-radius:4px;
+    width:140px;
+}
+
+.reviews{
+    background-color: #E8E8E8;
+}
+
+.featured--products{
+    background-color:#FBFBFB;
+}
+
+.cta-sale{
+    background-color: #127300;
+    color:#E7EBE8;
+    font-size:large;
+    padding:14px 40px;
+    border-radius:4px;
+    width:140px;
+}
+
+footer{
+    text-align: center;
+}
+   
+
